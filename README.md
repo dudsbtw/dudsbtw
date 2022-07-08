@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @dudsbtw
-- 👀 I’m interested in apps and games development
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on apps or video games development
-- 📫 How to reach me: @devduds on twitter
+Hello, my name is Eduardo, also known as "duds".
+Currently i am learning python.
+I am interested in apps and games development.
+My twitter is: @devduds.
