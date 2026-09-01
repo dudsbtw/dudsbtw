@@ -102,8 +102,8 @@ Atualmente busco evoluir cada vez mais como desenvolvedor, criando novos projeto
 
 <div align="left">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=dudsbtw&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudsbtw&show_icons=true&theme=tokyonight"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dudsbtw&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudsbtw&layout=compact&theme=tokyonight"/>
 
 </div>
