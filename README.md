@@ -102,12 +102,31 @@ Atualmente busco evoluir cada vez mais como desenvolvedor, criando novos projeto
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudsbtw&theme=tokyonight"/>
+<table>
+  <tr>
+    <td colspan="2" align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dudsbtw&theme=tokyonight"
+        alt="Detalhes do Perfil"
+      />
+    </td>
+  </tr>
 
-<br>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dudsbtw&theme=tokyonight"
+        alt="Estatísticas"
+      />
+    </td>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dudsbtw&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dudsbtw&theme=tokyonight"/>
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dudsbtw&theme=tokyonight"
+        alt="Linguagens"
+      />
+    </td>
+  </tr>
+</table>
 
 </div>
