@@ -1,56 +1,118 @@
 # 👨‍💻 Eduardo Frois
 
-### Desenvolvedor de Software | Estudante de Engenharia de Software
+### Desenvolvedor de Software
 
-Sou estudante de **Engenharia de Software na FIAP**, onde ingressei como bolsista integral pelo **ProUni**, e formado como **Técnico em Informática para Internet pela ETEC**.
+Sou estudante de **Engenharia de Software na FIAP**, onde estudo com bolsa integral pelo **ProUni**, e formado como **Técnico em Informática para Internet pela ETEC**.
 
-Tenho experiência com desenvolvimento Web e Mobile, trabalhando com tecnologias como HTML, CSS, JavaScript, PHP, MySQL, Python e React Native. Busco constantemente desenvolver novos projetos e aprimorar meus conhecimentos na área de tecnologia.
+Tenho experiência prática com desenvolvimento web e mobile através de projetos acadêmicos e pessoais. Durante minha formação, desenvolvi projetos utilizando tecnologias como HTML, CSS, JavaScript, PHP, MySQL, Python e React Native.
+
+Atualmente busco evoluir cada vez mais como desenvolvedor, criando novos projetos e aprofundando meus conhecimentos em tecnologia.
 
 ---
 
 ## 🤖 Linguagens e Tecnologias
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-</div>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="PHP"
+    title="PHP" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="React"
+    title="React" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="Git"
+    title="Git" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+
+<img 
+    align="left" 
+    alt="GitHub"
+    title="GitHub" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
+/>
+
+<br/>
+<br/>
 
 ---
 
 ## 📊 Estatísticas
 
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudsbtw&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudsbtw&layout=compact&theme=tokyonight"/>
-</div>
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=dudsbtw&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
 
----
-
-## 🚀 Projetos
-
-### 🌐 Portfólio
-Meu site pessoal reunindo informações sobre minha trajetória, tecnologias e projetos.
-
-### 🐍 Computational Thinking with Python
-Repositório com projetos e atividades desenvolvidos durante a graduação na FIAP.
-
-### 📱 WheelGO
-Aplicativo mobile desenvolvido em React Native com foco em acessibilidade e mobilidade para pessoas com dificuldade de locomoção.
-
-### ☁️ Estância Ilha da Madeira
-Projeto web desenvolvido durante o curso técnico, envolvendo desenvolvimento web, banco de dados e computação em nuvem.
-
----
-
-## 📫 Contato
-
-<a href="https://www.linkedin.com/in/eduardo-frois">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+  <img 
+    align="left" 
+    alt="GitHub Top Languages" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudsbtw&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
+  />
+</p>
