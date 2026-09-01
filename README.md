@@ -98,18 +98,23 @@ Atualmente busco evoluir cada vez mais como desenvolvedor, criando novos projeto
 
 ---
 
-## 🤖 Estatísticas
+## 📊 Estatísticas
 
-<div align="center">
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dudsbtw&theme=tokyonight"
-  height="180"
-/>
-
-<img
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dudsbtw&theme=tokyonight"
-  height="180"
-/>
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dudsbtw&theme=tokyonight"
+        height="180"
+        alt="Estatísticas do GitHub"
+      />
+    </td>
+    <td align="center">
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dudsbtw&theme=tokyonight"
+        height="180"
+        alt="Tecnologias"
+      />
+    </td>
+  </tr>
+</table>
