@@ -4,7 +4,7 @@
 
 Sou estudante de **Engenharia de Software na FIAP**, onde estudo com bolsa integral pelo **ProUni**, e formado como **Técnico em Informática para Internet pela ETEC**.
 
-Tenho experiência prática com desenvolvimento web e mobile através de projetos acadêmicos e pessoais. Durante minha formação, desenvolvi projetos utilizando tecnologias como HTML, CSS, JavaScript, PHP, MySQL, Python e React Native.
+Tenho experiência prática com desenvolvimento web e mobile através de projetos acadêmicos e pessoais. Durante minha formação, desenvolvi projetos utilizando tecnologias como HTML, CSS, JavaScript, PHP, MySQL, Python.
 
 Atualmente busco evoluir cada vez mais como desenvolvedor, criando novos projetos e aprofundando meus conhecimentos em tecnologia.
 
